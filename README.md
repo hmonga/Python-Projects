@@ -1,5 +1,5 @@
 🌸 Iris Flower Classification — Decision Tree (Python Project)
-This project uses a Decision Tree classifier to categorize Iris flowers into three species — Setosa, Versicolor, and Virginica — based on their petal and sepal dimensions. It is a simple machine learning classification task ideal for beginners.
+This project uses a Decision Tree classifier to categorize Iris flowers into three species — Setosa, Versicolor, and Virginica — based on their petal and sepal dimensions. 
 
 Train a Decision Tree Classifier using scikit-learn
 
